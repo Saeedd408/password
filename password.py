@@ -26,11 +26,9 @@ Password cracking software available to most of us is not able to crack those ki
 
 chars = "abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ~`!@#$%^&*()_-+=[]\{}|;',./:<>?'`"
 
-x = input("How Many Passwords Would You Like To Make? ")
-x = int(x)
+x = int(input("How Many Passwords Would You Like To Make? ")) 
 
-y = input("What Length Would You Like Your Password/s? ")
-y = int(y)
+y = int(input("What Length Would You Like Your Password/s? ")) 
 
 print("\nYour Passwords:\n")
 
